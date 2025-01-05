@@ -1,0 +1,3 @@
+[submodule "submodule-child-public"]
+	path = submodule-child-public
+	url = https://github.com/jseop-lim/submodule-child-public
