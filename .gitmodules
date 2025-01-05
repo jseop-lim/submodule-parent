@@ -1,6 +1,8 @@
 [submodule "submodule-child-public"]
 	path = submodule-child-public
 	url = https://github.com/jseop-lim/submodule-child-public
+	branch = main
 [submodule "submodule-child-private"]
 	path = submodule-child-private
 	url = https://github.com/jseop-lim/submodule-child-private
+	branch = main
